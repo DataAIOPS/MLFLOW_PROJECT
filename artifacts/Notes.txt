@@ -1,0 +1,4 @@
+
+python .\Data_Cleaning.py --processed_data_path 'YOUR_BASE_PATH/MLFLOW_PROJECT/artifacts/'
+
+python .\Data_Preprocessing.py --Target price
