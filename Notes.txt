@@ -1,8 +1,23 @@
+python -m venv mlflow_project
+for windows:
+cd mlflow_project/Lib
+activate
+
+For Linux:
+source mlflow/bin/activate
+
+____________________________________________________________
+pip install -r requirnment.txt
+
+____________________________________________________________
 
 python .\Data_Cleaning.py --processed_data_path 'YOUR_BASE_PATH/MLFLOW_PROJECT/artifacts/'
 
+____________________________________________________________
 python .\Data_Preprocessing.py --Target price
 
+____________________________________________________________
 python .\Model_Building.py 
 
+____________________________________________________________
 python .\Model_Evaluation.py
