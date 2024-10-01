@@ -12,15 +12,19 @@ def processed_data(cleaned_data_path,processed_data_path,Target):
     cleaned_data = os.listdir(cleaned_data_path)[0]
     cleaned_data = os.path.join(cleaned_data_path,cleaned_data)
     df = pd.read_csv(cleaned_data)
-    Y = df[Target]
+    Y = df[[Target]]
     X = df.drop(columns=[Target])
 
     X_train,X_test,y_train,y_test = train_test_split(X,Y,test_size=0.5)
 
-    X_train.to_csv(os.path.join(processed_data_path,"X_train.csv"))
-    X_test.to_csv(os.path.join(processed_data_path,"X_test.csv"))
-    y_train.to_csv(os.path.join(processed_data_path,"y_train.csv"))
-    y_train.to_csv(os.path.join(processed_data_path,"y_test.csv"))
+    print("X =",X_test)
+    print()
+    print("Y =",y_test)
+
+    X_train.to_csv(os.path.join(processed_data_path,"X_train.csv"),index=False)
+    X_test.to_csv(os.path.join(processed_data_path,"X_test.csv"),index=False)
+    y_train.to_csv(os.path.join(processed_data_path,"y_train.csv"),index=False)
+    y_test.to_csv(os.path.join(processed_data_path,"y_test.csv"),index=False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

@@ -20,7 +20,8 @@ def data_cleaning(raw_data_path,clean_data_path,raw_data_file):
     
     clean_data_file = generate_file_name(raw_data_file)
     clean_data = os.path.join(clean_data_path,clean_data_file)
-    df.to_csv(clean_data)
+    print(f"[INFO] exported clean data at {clean_data}")
+    df.to_csv(clean_data,index=False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
