@@ -1,7 +1,10 @@
 python -m venv mlflow_project
-for windows:
-cd mlflow_project/Lib
-activate
+for windows(CMD):
+cd mlflow_project
+. Scripts/activate
+
+For windows(gitbash):
+source mlflow_project/Scripts/activate
 
 For Linux:
 source mlflow/bin/activate

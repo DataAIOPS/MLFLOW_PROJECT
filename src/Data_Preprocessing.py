@@ -1,4 +1,5 @@
 import pandas as pd
+import mlflow
 import os
 import argparse
 from sklearn.model_selection import train_test_split
@@ -8,14 +9,15 @@ processed_data_path = os.path.abspath("./../artifacts/data/processed_data/")
 
 
 def processed_data(cleaned_data_path,processed_data_path,Target):
-    print(cleaned_data_path)
+    print("################DATA PREPROCESSING STARTED#####################")
     cleaned_data = os.listdir(cleaned_data_path)[0]
     cleaned_data = os.path.join(cleaned_data_path,cleaned_data)
     df = pd.read_csv(cleaned_data)
     Y = df[[Target]]
     X = df.drop(columns=[Target])
-
-    X_train,X_test,y_train,y_test = train_test_split(X,Y,test_size=0.5)
+    test_size=0.5
+    X_train,X_test,y_train,y_test = train_test_split(X,Y,test_size=test_size)
+    mlflow.log_param("test_size",0.5)
 
     print("X =",X_test)
     print()
@@ -25,6 +27,7 @@ def processed_data(cleaned_data_path,processed_data_path,Target):
     X_test.to_csv(os.path.join(processed_data_path,"X_test.csv"),index=False)
     y_train.to_csv(os.path.join(processed_data_path,"y_train.csv"),index=False)
     y_test.to_csv(os.path.join(processed_data_path,"y_test.csv"),index=False)
+    print("################DATA PREPROCESSING FINISHED#####################")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
