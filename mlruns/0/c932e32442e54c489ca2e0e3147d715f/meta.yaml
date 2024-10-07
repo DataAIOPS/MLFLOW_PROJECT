@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/c932e32442e54c489ca2e0e3147d715f/artifacts
+end_time: 1728312774527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c932e32442e54c489ca2e0e3147d715f
+run_name: sneaky-koi-810
+run_uuid: c932e32442e54c489ca2e0e3147d715f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728312734519
+status: 3
+tags: []
+user_id: shubh

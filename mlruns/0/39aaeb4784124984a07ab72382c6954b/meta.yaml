@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/39aaeb4784124984a07ab72382c6954b/artifacts
+end_time: 1728313349450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39aaeb4784124984a07ab72382c6954b
+run_name: treasured-shrike-564
+run_uuid: 39aaeb4784124984a07ab72382c6954b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313349188
+status: 4
+tags: []
+user_id: shubh

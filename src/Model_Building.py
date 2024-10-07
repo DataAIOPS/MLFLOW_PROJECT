@@ -22,9 +22,9 @@ def model_building(processed_data_path,model_path):
 
     model_path_file_name=os.path.join(model_path,"my_model.pkl")
     pickle.dump(model,open(model_path_file_name,"wb"))
-    print(f"[INFO] model is exporeted to {model_path_file_name}")\
-    mlflow.log_param("model_path",model_path_file_name)
-    mlflow.sklearn.log_model(model,"my-model")
+    print(f"[INFO] model is exporeted to {model_path_file_name}")
+    # mlflow.log_param("model_path",model_path_file_name)
+    mlflow.sklearn.log_model(model, "my_model")
     print("################MODEL BUILDING FINISHED#####################")
 
 

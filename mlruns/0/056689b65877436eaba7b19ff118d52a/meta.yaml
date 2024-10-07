@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/056689b65877436eaba7b19ff118d52a/artifacts
+end_time: 1728313349450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 056689b65877436eaba7b19ff118d52a
+run_name: big-sponge-429
+run_uuid: 056689b65877436eaba7b19ff118d52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313348989
+status: 4
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/19487e4cb1694580b5b961aac573ae99/artifacts
+end_time: 1728313229678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19487e4cb1694580b5b961aac573ae99
+run_name: clumsy-fly-760
+run_uuid: 19487e4cb1694580b5b961aac573ae99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313229195
+status: 4
+tags: []
+user_id: shubh

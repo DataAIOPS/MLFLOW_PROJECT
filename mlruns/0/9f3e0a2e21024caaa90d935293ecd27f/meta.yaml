@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/9f3e0a2e21024caaa90d935293ecd27f/artifacts
+end_time: 1728313490055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3e0a2e21024caaa90d935293ecd27f
+run_name: luxuriant-crane-624
+run_uuid: 9f3e0a2e21024caaa90d935293ecd27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313489212
+status: 4
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/3b0cbcd1274a4474bf8dae04a252ee76/artifacts
+end_time: 1728312997618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b0cbcd1274a4474bf8dae04a252ee76
+run_name: gaudy-ram-122
+run_uuid: 3b0cbcd1274a4474bf8dae04a252ee76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728312997073
+status: 4
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/706cb8a3e2684695b90336291c6ec7ed/artifacts
+end_time: 1728313468934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706cb8a3e2684695b90336291c6ec7ed
+run_name: selective-rat-711
+run_uuid: 706cb8a3e2684695b90336291c6ec7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313468457
+status: 4
+tags: []
+user_id: shubh

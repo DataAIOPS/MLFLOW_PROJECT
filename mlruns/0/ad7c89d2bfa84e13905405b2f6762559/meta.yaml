@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/ad7c89d2bfa84e13905405b2f6762559/artifacts
+end_time: 1728313511656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad7c89d2bfa84e13905405b2f6762559
+run_name: monumental-zebra-722
+run_uuid: ad7c89d2bfa84e13905405b2f6762559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313503153
+status: 4
+tags: []
+user_id: shubh

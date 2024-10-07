@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/cc5b7d1a109a43d595ac2260be1c9b0a/artifacts
+end_time: 1728316426310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5b7d1a109a43d595ac2260be1c9b0a
+run_name: nervous-perch-860
+run_uuid: cc5b7d1a109a43d595ac2260be1c9b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728316423429
+status: 3
+tags: []
+user_id: shubh

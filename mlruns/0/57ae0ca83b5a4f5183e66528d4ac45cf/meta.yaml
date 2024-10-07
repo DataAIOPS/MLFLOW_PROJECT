@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/57ae0ca83b5a4f5183e66528d4ac45cf/artifacts
+end_time: 1728315697278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57ae0ca83b5a4f5183e66528d4ac45cf
+run_name: clumsy-duck-169
+run_uuid: 57ae0ca83b5a4f5183e66528d4ac45cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728315696862
+status: 4
+tags: []
+user_id: shubh

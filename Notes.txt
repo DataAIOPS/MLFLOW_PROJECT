@@ -24,3 +24,6 @@ python .\Model_Building.py
 
 ____________________________________________________________
 python .\Model_Evaluation.py
+
+____________________________________________________________
+python main.py --Target price

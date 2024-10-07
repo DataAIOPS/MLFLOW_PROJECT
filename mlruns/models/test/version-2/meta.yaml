@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728316253252
+current_stage: Production
+description: ''
+last_updated_timestamp: 1728316297763
+name: test
+run_id: 3b6202d9e51049fdbd97269ea2116dd8
+run_link: ''
+source: models:/test/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/3b6202d9e51049fdbd97269ea2116dd8/artifacts/best_model
+user_id: null
+version: 2

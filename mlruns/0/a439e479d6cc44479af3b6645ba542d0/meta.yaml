@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/a439e479d6cc44479af3b6645ba542d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a439e479d6cc44479af3b6645ba542d0
+run_name: shivering-cod-882
+run_uuid: a439e479d6cc44479af3b6645ba542d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728315697126
+status: 1
+tags: []
+user_id: shubh

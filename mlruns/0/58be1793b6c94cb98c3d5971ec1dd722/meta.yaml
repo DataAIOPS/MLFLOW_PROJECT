@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/58be1793b6c94cb98c3d5971ec1dd722/artifacts
+end_time: 1728316441566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58be1793b6c94cb98c3d5971ec1dd722
+run_name: funny-roo-761
+run_uuid: 58be1793b6c94cb98c3d5971ec1dd722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728316420639
+status: 3
+tags: []
+user_id: shubh

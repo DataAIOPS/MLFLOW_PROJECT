@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/3a9ead2f60b74533a9ce2a3deaedd842/artifacts
+end_time: 1728313168823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a9ead2f60b74533a9ce2a3deaedd842
+run_name: secretive-owl-28
+run_uuid: 3a9ead2f60b74533a9ce2a3deaedd842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313168210
+status: 4
+tags: []
+user_id: shubh

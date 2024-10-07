@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/15028dd63ba74ed59a6750cb3d94265b/artifacts
+end_time: 1728313594876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15028dd63ba74ed59a6750cb3d94265b
+run_name: vaunted-moth-143
+run_uuid: 15028dd63ba74ed59a6750cb3d94265b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313589353
+status: 3
+tags: []
+user_id: shubh

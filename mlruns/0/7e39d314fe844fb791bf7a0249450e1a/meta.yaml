@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/7e39d314fe844fb791bf7a0249450e1a/artifacts
+end_time: 1728315686004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e39d314fe844fb791bf7a0249450e1a
+run_name: brawny-pig-1
+run_uuid: 7e39d314fe844fb791bf7a0249450e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728315678532
+status: 3
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/14947f41b8a147509daa30042793be62/artifacts
+end_time: 1728312774527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14947f41b8a147509daa30042793be62
+run_name: mysterious-colt-34
+run_uuid: 14947f41b8a147509daa30042793be62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728312737016
+status: 3
+tags: []
+user_id: shubh

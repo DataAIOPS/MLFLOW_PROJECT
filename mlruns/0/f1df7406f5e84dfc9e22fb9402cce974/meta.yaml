@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/f1df7406f5e84dfc9e22fb9402cce974/artifacts
+end_time: 1728313560438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1df7406f5e84dfc9e22fb9402cce974
+run_name: angry-zebra-178
+run_uuid: f1df7406f5e84dfc9e22fb9402cce974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313558039
+status: 3
+tags: []
+user_id: shubh

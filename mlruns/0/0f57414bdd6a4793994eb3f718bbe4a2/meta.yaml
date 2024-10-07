@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/0f57414bdd6a4793994eb3f718bbe4a2/artifacts
+end_time: 1728315806182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f57414bdd6a4793994eb3f718bbe4a2
+run_name: suave-rat-224
+run_uuid: 0f57414bdd6a4793994eb3f718bbe4a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728315799057
+status: 3
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/6e1878126e0e45fbbf3ce7012b61760b/artifacts
+end_time: 1728313468929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e1878126e0e45fbbf3ce7012b61760b
+run_name: gregarious-gnu-685
+run_uuid: 6e1878126e0e45fbbf3ce7012b61760b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313468704
+status: 4
+tags: []
+user_id: shubh

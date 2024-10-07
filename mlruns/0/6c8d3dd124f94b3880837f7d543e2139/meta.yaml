@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/6c8d3dd124f94b3880837f7d543e2139/artifacts
+end_time: 1728312863271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c8d3dd124f94b3880837f7d543e2139
+run_name: invincible-gull-409
+run_uuid: 6c8d3dd124f94b3880837f7d543e2139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728312861364
+status: 3
+tags: []
+user_id: shubh

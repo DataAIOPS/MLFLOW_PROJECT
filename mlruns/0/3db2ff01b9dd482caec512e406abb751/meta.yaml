@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/3db2ff01b9dd482caec512e406abb751/artifacts
+end_time: 1728316441561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db2ff01b9dd482caec512e406abb751
+run_name: carefree-mink-989
+run_uuid: 3db2ff01b9dd482caec512e406abb751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728316434365
+status: 3
+tags: []
+user_id: shubh

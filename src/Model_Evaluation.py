@@ -3,12 +3,14 @@ import pickle
 import os
 import pandas as pd
 import argparse
+import mlflow
 
 processed_data_path = os.path.abspath("./../artifacts/data/processed_data/")
 model_path = os.path.abspath("./../artifacts/model/")
 eval_model_path = os.path.abspath("./../artifacts/model_eval")
 
 def eval_model(processed_data_path,model_path,eval_model_path):
+    print("#################Model Evaluation Started################")
     model_path_file_name = os.path.join(model_path,"my_model.pkl")
     model=pickle.load(open(model_path_file_name, 'rb'))
 
@@ -23,13 +25,18 @@ def eval_model(processed_data_path,model_path,eval_model_path):
     r_score=r2_score(y_test,y_pred_test)
     MSE = mean_squared_error(y_test,y_pred_test)
     MAE = mean_absolute_error(y_test,y_pred_test)
-
+    mlflow.log_metrics({"R_square":r_score,
+                        "MSE":MSE,
+                        "MAE":MAE})
     if r_score > 0.8:
         print(r_score)
         eval_model_path_file = os.path.join(eval_model_path,"eval_model.pkl")
         pickle.dump(model,open(eval_model_path_file,"wb"))
+        mlflow.sklearn.log_model(model,"best_model")
     else:
         print(f"[WARNING] model doesnt pass evalution criteria r_score = {r_score}")
+    print("#################Model Evaluation Finished ################")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

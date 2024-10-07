@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/b5d90de1e9ff430ab0db9c85c4e61588/artifacts
+end_time: 1728313594861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5d90de1e9ff430ab0db9c85c4e61588
+run_name: amusing-stoat-289
+run_uuid: b5d90de1e9ff430ab0db9c85c4e61588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728313589607
+status: 3
+tags: []
+user_id: shubh
