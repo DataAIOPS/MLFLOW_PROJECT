@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/2af04d9e58d14e17ae4c39f782b6f512/artifacts
+end_time: 1728923338198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2af04d9e58d14e17ae4c39f782b6f512
+run_name: luxuriant-jay-251
+run_uuid: 2af04d9e58d14e17ae4c39f782b6f512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728923336714
+status: 3
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/40f06236cd814a2d995ad98839b19d74/artifacts
+end_time: 1728923101739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40f06236cd814a2d995ad98839b19d74
+run_name: persistent-fly-943
+run_uuid: 40f06236cd814a2d995ad98839b19d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728923099780
+status: 3
+tags: []
+user_id: shubh

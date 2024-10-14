@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/34b7aa1bc805405eb74f520e61aff2df/artifacts
+end_time: 1728919754621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34b7aa1bc805405eb74f520e61aff2df
+run_name: bright-grouse-397
+run_uuid: 34b7aa1bc805405eb74f520e61aff2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728919741949
+status: 3
+tags: []
+user_id: shubh

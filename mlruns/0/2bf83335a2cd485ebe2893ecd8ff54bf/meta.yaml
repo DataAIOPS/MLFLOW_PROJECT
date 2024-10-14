@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/2bf83335a2cd485ebe2893ecd8ff54bf/artifacts
+end_time: 1728923111036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf83335a2cd485ebe2893ecd8ff54bf
+run_name: welcoming-fowl-224
+run_uuid: 2bf83335a2cd485ebe2893ecd8ff54bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728923097846
+status: 3
+tags: []
+user_id: shubh

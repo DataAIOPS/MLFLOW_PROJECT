@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/824ff4896afe45fcbac7b5e6ab2900dd/artifacts
+end_time: 1728919754621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 824ff4896afe45fcbac7b5e6ab2900dd
+run_name: dazzling-dove-486
+run_uuid: 824ff4896afe45fcbac7b5e6ab2900dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728919750683
+status: 3
+tags: []
+user_id: shubh

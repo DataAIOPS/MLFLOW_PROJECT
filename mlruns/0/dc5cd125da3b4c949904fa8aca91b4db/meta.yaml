@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/dc5cd125da3b4c949904fa8aca91b4db/artifacts
+end_time: 1728923349382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc5cd125da3b4c949904fa8aca91b4db
+run_name: rare-skink-476
+run_uuid: dc5cd125da3b4c949904fa8aca91b4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728923344923
+status: 3
+tags: []
+user_id: shubh

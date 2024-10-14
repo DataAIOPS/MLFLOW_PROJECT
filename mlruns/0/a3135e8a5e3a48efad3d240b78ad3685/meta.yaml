@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubh/Desktop/delete/MLFLOW_PROJECT/mlruns/0/a3135e8a5e3a48efad3d240b78ad3685/artifacts
+end_time: 1728919743333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3135e8a5e3a48efad3d240b78ad3685
+run_name: efficient-cow-654
+run_uuid: a3135e8a5e3a48efad3d240b78ad3685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728919742074
+status: 3
+tags: []
+user_id: shubh

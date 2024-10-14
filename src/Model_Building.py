@@ -17,7 +17,7 @@ def model_building(processed_data_path,model_path):
     y_train = pd.read_csv(y_train_path)
 
     print("[INFO] Model building is started")
-    model = LinearRegression()
+    model = LinearRegression(fit_intercept=False)
     model.fit(X_train,y_train)
 
     model_path_file_name=os.path.join(model_path,"my_model.pkl")
@@ -26,7 +26,6 @@ def model_building(processed_data_path,model_path):
     # mlflow.log_param("model_path",model_path_file_name)
     mlflow.sklearn.log_model(model, "my_model")
     print("################MODEL BUILDING FINISHED#####################")
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
