@@ -1,6 +1,7 @@
 import mlflow
 from mlflow.tracking import MlflowClient
 import os
+
 os.environ['MLFLOW_TRACKING_URI'] = 'https://dagshub.com/DataAIOPS/MLFLOW_PROJECT.mlflow'
 os.environ['MLFLOW_TRACKING_USERNAME'] = 'DataAIOPS'
 os.environ['MLFLOW_TRACKING_PASSWORD'] = '9775fb6f18d752814f34587ba0e1e3d988a189e4'
