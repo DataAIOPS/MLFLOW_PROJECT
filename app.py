@@ -2,7 +2,7 @@ import os
 import pickle
 from flask import Flask, render_template,request
 
-model_path = os.path.abspath("../artifacts/best_model/best_model")
+model_path = os.path.abspath("/app/artifacts/best_model/best_model")
 model_path_file_name = os.path.join(model_path,"model.pkl")
 model=pickle.load(open(model_path_file_name, 'rb'))
 
